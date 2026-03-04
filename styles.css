@@ -1,0 +1,21 @@
+body {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.container {
+    width: 70%;
+    background: grey;
+    position:relative;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.registration-form {
+    display: flex;
+    width: auto;
+    height: auto;
+    align-items: center;
+    text-align: center;
+}
